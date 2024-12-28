@@ -18,5 +18,3 @@ This repository contains an implementation of **NextAuth.js**, a powerful and fl
 - **React**: Frontend library for building user interfaces.
 
 ---
-
-## 📂 Project Structure
